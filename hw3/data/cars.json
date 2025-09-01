@@ -1,0 +1,22 @@
+[
+  {
+    "id": "7c50c022-c56e-41f5-8e71-b20361e0c737",
+    "make": "Mercedes-Benz",
+    "model": "E200",
+    "year": 2021,
+    "color": "Black",
+    "price": 70000,
+    "createdAt": "2025-09-01T11:33:30.160Z",
+    "updatedAt": "2025-09-01T11:33:30.160Z"
+  },
+  {
+    "id": "df350ac6-8f20-4984-b56e-9a6e25aa3a59",
+    "make": "Toyota",
+    "model": "Prius",
+    "year": 2024,
+    "color": "Red",
+    "price": 20000,
+    "createdAt": "2025-09-01T11:34:08.700Z",
+    "updatedAt": "2025-09-01T11:34:08.700Z"
+  }
+]

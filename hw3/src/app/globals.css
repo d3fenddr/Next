@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root { --radius: 12px; }
+.container { max-width: 960px; margin: 0 auto; padding: 24px; }
+.input {
+  border: 1px solid #e5e7eb; border-radius: var(--radius); padding: 10px 12px;
+  outline: none;
+}
+.input:focus { border-color: #6b7280; box-shadow: 0 0 0 3px rgba(107,114,128,.15); }
+.btn-primary {
+  background: black; color: white; padding: 10px 14px; border-radius: var(--radius);
+}
+.btn-secondary {
+  border: 1px solid #e5e7eb; padding: 10px 14px; border-radius: var(--radius);
+}
+.link { color: #2563eb; }
